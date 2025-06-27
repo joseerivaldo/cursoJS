@@ -3,9 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body{
+            background-color: #000000;
+            color: #ffffff;
+        }
+    </style>
 </head>
 <body>
-    
+    <h1>Iniciando os estudos com DOM</h1>
+    <p id="paragrafo">Aqui vai o resultado</p>
+    <div>Clique aqui</div>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
+
+    <script>
+        var p1 = document.getElementById('paragrafo')
+        p1.style.background = 'pink'
+    </script>
 </body>
 </html>
