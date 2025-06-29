@@ -1,5 +1,4 @@
-var teste = 1;
-teste = 'erivaldo'
+var nome = "Erivaldo";
 
-console.log(teste);
-
+console.log(nome);
+console.log(typeof nome);
