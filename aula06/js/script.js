@@ -1,1 +1,5 @@
-console.log("Este é o script do head")
+var teste = 1;
+teste = 'erivaldo'
+
+console.log(teste);
+
