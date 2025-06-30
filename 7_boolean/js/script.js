@@ -1,4 +1,8 @@
-var verdadeiro = false;
+var nome = null;
+var sobrenome = 
 
-console.log(verdadeiro);
-console.log(typeof verdadeiro)
+console.log(nome);
+
+nome = "Erivaldo"
+
+console.log(nome);
