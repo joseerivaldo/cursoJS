@@ -22,3 +22,8 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+select#tabuada{
+    margin-top: 10px;
+    width: 100px;
+}
