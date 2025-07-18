@@ -1,4 +1,5 @@
 function tabuada(){
+    //const numero = document.getElementsByName('n_numero')[0]
     const numero = document.querySelector('input#numero')
     const tab = document.querySelector('select#tabuada')
 
